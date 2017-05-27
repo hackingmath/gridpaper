@@ -82,7 +82,7 @@ def graphx(x):
 
 def graphy(y):
     '''convert y-coord to canvas form'''
-    return y * height/rangey
+    return -y * height/rangey
 
 
     
