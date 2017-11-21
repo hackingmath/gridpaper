@@ -1,3 +1,4 @@
 # gridpaper
 
-Draw functions on a nice grid for Algebra, Geometry, Trig or Calc fun!
+Draw functions on a nice grid for Algebra, Geometry, Trig or Calc fun!<br/>
+<img src='gridforgraphing.jpg'>
